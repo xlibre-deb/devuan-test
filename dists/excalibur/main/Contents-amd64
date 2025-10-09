@@ -335,7 +335,6 @@ usr/lib/debug/.build-id/81/87b47042df6de76be0fc6c80f7e91324c54560.debug xserver-
 usr/lib/debug/.build-id/9c/745365ac62822f10bbebf45d96900c5e452eb2.debug xserver-xlibre-core-dbgsym
 usr/lib/debug/.build-id/a4/482998da86e2c6702f9eac0e17bed022c1dd5b.debug xserver-xlibre-input-wacom-dbgsym
 usr/lib/debug/.build-id/a4/97ed4897fd31a14e9366e6257fa398cf942ed6.debug xserver-xlibre-video-vmware-dbgsym
-usr/lib/debug/.build-id/a6/bd4f7c77d220456c258d05b3f1718cd73af31d.debug xserver-xlibre-video-vmware-dbgsym
 usr/lib/debug/.build-id/a9/fe0dfaf42f5a95fcfc343db705cc79cd280425.debug xserver-xlibre-core-dbgsym
 usr/lib/debug/.build-id/b2/8f4581c0038620fe3a37b0070c3760a8ed5b69.debug xserver-xlibre-input-synaptics-dbgsym
 usr/lib/debug/.build-id/b3/5ab6f12eec568fb612ba4f0fa3e35736d8c6f1.debug xserver-xlibre-xephyr-dbgsym
@@ -343,6 +342,7 @@ usr/lib/debug/.build-id/c0/c5b74dd5b9605f5566df6b8184c3220732029f.debug xserver-
 usr/lib/debug/.build-id/c5/731ea7ea5ca3c2463a980d92050d1135cdf9f4.debug xserver-xlibre-video-vesa-dbgsym
 usr/lib/debug/.build-id/c8/8d0f5fa171915747e309db0d4627121ee9dccc.debug xserver-xlibre-legacy-dbgsym
 usr/lib/debug/.build-id/cb/780827405c27f354ac5c1ea7993a851420a9a6.debug xserver-xlibre-input-vmmouse-dbgsym
+usr/lib/debug/.build-id/cc/0ddc7f11196c485f6e9d83e31d3c3e34d83393.debug xserver-xlibre-video-vmware-dbgsym
 usr/lib/debug/.build-id/e2/9992ca16a802f789d0b520ffb2105a465b46e8.debug xserver-xlibre-input-evdev-dbgsym
 usr/lib/debug/.build-id/e4/7a1e42fd83fb69993f9073d28b64c3f85058a5.debug xserver-xlibre-input-synaptics-dbgsym
 usr/lib/debug/.build-id/e6/ebebc7c6c70a4085a2fd089b719e461c163f73.debug xserver-xlibre-core-dbgsym

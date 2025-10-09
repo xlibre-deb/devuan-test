@@ -311,7 +311,7 @@ usr/include/xorg/xvmcext.h				    xserver-xlibre-dev
 usr/lib/debug/.build-id/01/71862e41998eebe587f69bde532171e54a321d.debug xserver-xlibre-input-elographics-dbgsym
 usr/lib/debug/.build-id/0f/25839e4678837b58aa607dc35f78ba06cd15cf.debug xserver-xlibre-input-wacom-dbgsym
 usr/lib/debug/.build-id/16/e2d43307a39199332c53130a6826cd17112bea.debug xserver-xlibre-video-dummy-dbgsym
-usr/lib/debug/.build-id/22/33e389cd49f4b31fdf346cccc6002a7c3c1b04.debug xserver-xlibre-video-vmware-dbgsym
+usr/lib/debug/.build-id/1b/f3c40a8a267c021580a04deb4dedd7b575e94d.debug xserver-xlibre-video-vmware-dbgsym
 usr/lib/debug/.build-id/2f/65cdbe18dfffe449067cd4b52cfdb08fb51c04.debug xserver-xlibre-input-wacom-dbgsym
 usr/lib/debug/.build-id/30/36bf5520f243d652be76cf7500a3dec2eb6d15.debug xserver-xlibre-video-vesa-dbgsym
 usr/lib/debug/.build-id/3f/bec6e68c42429a0a6e3cbc2e70ca8895280a8f.debug xserver-xlibre-core-dbgsym
